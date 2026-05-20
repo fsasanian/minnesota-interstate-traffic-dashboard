@@ -6,6 +6,11 @@ Interactive traffic analytics dashboard created using Tableau.
 
 ![Dashboard Screenshot](dashboard.png)
 
+## Tableau Dashboard
+
+View the interactive dashboard here:
+
+[Open Tableau Dashboard](https://public.tableau.com/app/profile/farnaz.sasanian/viz/MinnesotaInterstateTrafficDashboard_17792959690000/Dashboard1)
 ## Tools Used
 
 - Tableau Public
