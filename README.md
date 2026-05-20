@@ -4,7 +4,7 @@ Interactive traffic analytics dashboard created using Tableau.
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Minnesota-Interstate-Traffic-Dashboard.png)
+![Dashboard Screenshot](Minnesota Interstate Traffic Dashboard.png)
 
 ## Tools Used
 
